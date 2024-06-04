@@ -103,9 +103,5 @@ if __name__ == "__main__":
     url = "https://example.com"
     main(url)
 
-
-
-![image](https://github.com/Jashanpreet1234/web_scrapper.io/assets/105735825/330de9e4-4a73-4435-85b9-e022f41016b3)
-
-
+![image](https://github.com/Jashanpreet1234/web_scrapper.io/assets/105735825/ac687115-157d-416e-824c-5a9f00186433)
 
